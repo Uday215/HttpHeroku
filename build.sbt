@@ -1,3 +1,5 @@
+enablePlugins(JavaServerAppPackaging)
+
 lazy val akkaHttpVersion = "10.1.9"
 lazy val akkaVersion    = "2.5.25"
 
